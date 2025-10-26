@@ -16,7 +16,7 @@ const vihanga = {
         },
         backEnd: {
             Java: ["SpringBoot"],
-	        js: ["Node", "Express", "NestJS"],
+	        js: ["Node", "Express"],
         },
         databases: ["MySQL", "MongoDB"],
         misc: ["REST APIs"],
