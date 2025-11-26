@@ -11,7 +11,7 @@ const vihanga = {
     code: ["Java", "Javascript"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", "Next.js"],
+            js: ["React", "Angular", "Next.js","Typescript"],
             css: ["Tailwind", "Bootstrap","Sass"],
         },
         backEnd: {
