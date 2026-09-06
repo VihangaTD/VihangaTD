@@ -11,13 +11,13 @@ const vihanga = {
     code: ["Java", "Javascript"],
     technologies: {
         frontEnd: {
-            js: ["React", "Angular", "Next.js", "Typescript", "Nest.js"],
+            js: ["React", "Angular", "Next.js", "Typescript"],
             css: ["Tailwind", "Bootstrap","Sass"],
         },
         backEnd: {
             Java: ["SpringBoot"],
 			Rust: ["Tauri"],
-	        js: ["Node", "Express"],
+	        js: ["Node", "Express", "Nest.js"],
         },
         databases: ["MySQL", "MongoDB"],
         misc: ["REST APIs"],
