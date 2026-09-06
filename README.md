@@ -19,7 +19,7 @@ const vihanga = {
 			Rust: ["Tauri"],
 	        js: ["Node", "Express", "Nest.js"],
         },
-        databases: ["MySQL", "MongoDB"],
+        databases: ["MySQL", "MongoDB", "PostgreSQL"],
         misc: ["REST APIs"],
     },
     architecture: {
